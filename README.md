@@ -9,7 +9,7 @@ remediation guidance for web application security vulnerabilities.
 ### Server-Side Vulnerabilities
 
 - [Path Traversal and SSRF](server-side-vulnerabilities/path-traversal-and-ssrf.md)
-- [File Uploads, Command Injection, and SQL Injection](server-side-vulnerabilities/file-uploads-command-injection-sqli.md)
+- [File Uploads, Command Injection, and SQL Injection](server-side-vulnerabilities/file-uploads-command-sqli.md)
 
 ## Repository Goals
 
